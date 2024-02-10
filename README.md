@@ -1,4 +1,4 @@
-Role Name
+Vector role
 =========
 
 Роль для установки vector.
